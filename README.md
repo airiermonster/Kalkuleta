@@ -20,10 +20,6 @@ A beautiful modern calculator app built with Flutter, featuring customizable set
 - Responsive layout that works on all screen sizes
 - Error handling for invalid expressions
 
-## Screenshots
-
-(Screenshots will be available after running the app)
-
 ## Getting Started
 
 1. Make sure you have Flutter installed on your machine
